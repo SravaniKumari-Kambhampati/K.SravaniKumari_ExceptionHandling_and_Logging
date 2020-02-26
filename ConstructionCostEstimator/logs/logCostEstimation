@@ -1,0 +1,222 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>Log4j Log Messages</title>
+<style type="text/css">
+<!--
+body, table {font-family:arial,sans-serif; font-size: medium
+;}th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade="noshade">
+Log session start time Tue Feb 25 22:59:22 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Logger</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1390</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.harsha.ConstructionCostEstimator.ClientApplication logger">com.harsha.ConstructionCostEstimator.ClientApplication</td>
+<td title="Message">In Client Application</td>
+</tr>
+
+<tr>
+<td>1399</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.harsha.ConstructionCostEstimator.ClientApplication logger">com.harsha.ConstructionCostEstimator.ClientApplication</td>
+<td title="Message"><br />Enter cost of the house :</td>
+</tr>
+
+<tr>
+<td>100631</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.harsha.ConstructionCostEstimator.ClientApplication logger">com.harsha.ConstructionCostEstimator.ClientApplication</td>
+<td title="Message"><br />Enter the material standard [ Standard || aboveStandard || highStandard ] :</td>
+</tr>
+
+<tr>
+<td>104354</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.harsha.ConstructionCostEstimator.ClientApplication logger">com.harsha.ConstructionCostEstimator.ClientApplication</td>
+<td title="Message"><br />Enter if it fully automated [y/n] :</td>
+</tr>
+
+<tr>
+<td>106528</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.harsha.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In getCost method</td>
+</tr>
+
+<tr>
+<td>106529</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.harsha.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In returnCost method</td>
+</tr>
+
+<tr>
+<td>106531</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.harsha.ConstructionCostEstimator.ClientApplication logger">com.harsha.ConstructionCostEstimator.ClientApplication</td>
+<td title="Message"><br />Estimated house construction cost :1800000.0</td>
+</tr>
+
+<tr>
+<td>106531</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.harsha.ConstructionCostEstimator.ClientApplication logger">com.harsha.ConstructionCostEstimator.ClientApplication</td>
+<td title="Message"><br />Press stop to exit or anything to continue : </td>
+</tr>
+</table>
+<br>
+</body></html>
+
+<tr>
+<td>1362</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.harsha.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In getCost method</td>
+</tr>
+
+<tr>
+<td>1367</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.harsha.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In returnCost method</td>
+</tr>
+
+<tr>
+<td>1368</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.harsha.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In getCost method</td>
+</tr>
+
+<tr>
+<td>1368</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.harsha.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In returnCost method</td>
+</tr>
+
+<tr>
+<td>1369</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.harsha.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In getCost method</td>
+</tr>
+
+<tr>
+<td>1370</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.harsha.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In returnCost method</td>
+</tr>
+
+<tr>
+<td>1371</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.harsha.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In getCost method</td>
+</tr>
+
+<tr>
+<td>1372</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.harsha.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In returnCost method</td>
+</tr>
+
+<tr>
+<td>1373</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.harsha.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In getCost method</td>
+</tr>
+
+<tr>
+<td>1374</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.harsha.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In returnCost method</td>
+</tr>
+
+<tr>
+<td>1374</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.harsha.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In getCost method</td>
+</tr>
+
+<tr>
+<td>1375</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In returnCost method</td>
+</tr>
+
+<tr>
+<td>1375</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In getCost method</td>
+</tr>
+
+<tr>
+<td>1376</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In returnCost method</td>
+</tr>
+
+<tr>
+<td>1376</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In getCost method</td>
+</tr>
+
+<tr>
+<td>1377</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.ConstructionCostEstimator.CostCalculator logger">com.harsha.ConstructionCostEstimator.CostCalculator</td>
+<td title="Message">In returnCost method</td>
+</tr>
+</table>
+<br>
+</body></html>

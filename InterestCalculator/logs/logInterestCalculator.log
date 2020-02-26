@@ -1,0 +1,22 @@
+2020-02-25 23:14:21 DEBUG ClientApplication:15 - 
+Enter Principle Amount,rate of interest, time period : 
+2020-02-25 23:14:25 DEBUG ClientApplication:19 - 
+1.Simple Interest
+2.Compound Interest
+Enter the choice : 
+2020-02-25 23:14:26 INFO  CalculateInterest:7 - In calculateSimpleInterest method
+2020-02-25 23:14:26 DEBUG ClientApplication:30 - 
+Interest = 10.0
+2020-02-25 23:14:26 DEBUG ClientApplication:31 - 
+press 'stop' to exit or anything to continue : 
+2020-02-25 23:14:28 DEBUG ClientApplication:15 - 
+Enter Principle Amount,rate of interest, time period : 
+2020-02-25 23:14:32 DEBUG ClientApplication:19 - 
+1.Simple Interest
+2.Compound Interest
+Enter the choice : 
+2020-02-25 23:14:33 INFO  CalculateInterest:13 - In calculateCompoundInterest method
+2020-02-25 23:14:33 DEBUG ClientApplication:30 - 
+Interest = 1480.2442849183444
+2020-02-25 23:14:33 DEBUG ClientApplication:31 - 
+press 'stop' to exit or anything to continue : 

@@ -1,0 +1,324 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>Log4j Log Messages</title>
+<style type="text/css">
+<!--
+body, table {font-family:arial,sans-serif; font-size: medium
+;}th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade="noshade">
+Log session start time Tue Feb 25 23:10:35 IST 2020<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Logger</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1268</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />Enter Principle Amount,rate of interest, time period : </td>
+</tr>
+
+<tr>
+<td>13784</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />1.Simple Interest<br />2.Compound Interest<br />Enter the choice : </td>
+</tr>
+
+<tr>
+<td>20438</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateCompoundInterest method</td>
+</tr>
+
+<tr>
+<td>20439</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />Interest = 2073.6</td>
+</tr>
+
+<tr>
+<td>20440</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />press 'stop' to exit or anything to continue : </td>
+</tr>
+</table>
+<br>
+</body></html>
+
+<tr>
+<td>1501</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />Enter Principle Amount,rate of interest, time period : </td>
+</tr>
+
+<tr>
+<td>17567</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />1.Simple Interest<br />2.Compound Interest<br />Enter the choice : </td>
+</tr>
+
+<tr>
+<td>20183</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateSimpleInterest method</td>
+</tr>
+
+<tr>
+<td>20184</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />Interest = 5000.0</td>
+</tr>
+
+<tr>
+<td>20185</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />press 'stop' to exit or anything to continue : </td>
+</tr>
+</table>
+<br>
+</body></html>
+
+<tr>
+<td>1337</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />Enter Principle Amount,rate of interest, time period : </td>
+</tr>
+
+<tr>
+<td>8804</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />1.Simple Interest<br />2.Compound Interest<br />Enter the choice : </td>
+</tr>
+
+<tr>
+<td>10100</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateSimpleInterest method</td>
+</tr>
+
+<tr>
+<td>10101</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />Interest = 10.0</td>
+</tr>
+
+<tr>
+<td>10101</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />press 'stop' to exit or anything to continue : </td>
+</tr>
+
+<tr>
+<td>13409</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />Enter Principle Amount,rate of interest, time period : </td>
+</tr>
+
+<tr>
+<td>23155</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />1.Simple Interest<br />2.Compound Interest<br />Enter the choice : </td>
+</tr>
+
+<tr>
+<td>24929</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateCompoundInterest method</td>
+</tr>
+
+<tr>
+<td>24930</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />Interest = 1480.2442849183444</td>
+</tr>
+
+<tr>
+<td>24931</td>
+<td title="main thread">main</td>
+<td title="Level"><font color="#339933">DEBUG</font></td>
+<td title="com.SravaniKumari.InterestCalculator.ClientApplication logger">com.harsha.InterestCalculator.ClientApplication</td>
+<td title="Message"><br />press 'stop' to exit or anything to continue : </td>
+</tr>
+</table>
+<br>
+</body></html>
+
+<tr>
+<td>1724</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateCompoundInterest method</td>
+</tr>
+
+<tr>
+<td>1729</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateCompoundInterest method</td>
+</tr>
+
+<tr>
+<td>1730</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateCompoundInterest method</td>
+</tr>
+
+<tr>
+<td>1731</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateCompoundInterest method</td>
+</tr>
+
+<tr>
+<td>1733</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.harsha.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateSimpleInterest method</td>
+</tr>
+
+<tr>
+<td>1734</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateSimpleInterest method</td>
+</tr>
+
+<tr>
+<td>1735</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateSimpleInterest method</td>
+</tr>
+
+<tr>
+<td>1736</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateSimpleInterest method</td>
+</tr>
+
+<tr>
+<td>1737</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateCompoundInterest method</td>
+</tr>
+
+<tr>
+<td>1738</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateCompoundInterest method</td>
+</tr>
+
+<tr>
+<td>1739</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateCompoundInterest method</td>
+</tr>
+
+<tr>
+<td>1740</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateCompoundInterest method</td>
+</tr>
+
+<tr>
+<td>1741</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateSimpleInterest method</td>
+</tr>
+
+<tr>
+<td>1742</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateSimpleInterest method</td>
+</tr>
+
+<tr>
+<td>1742</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateSimpleInterest method</td>
+</tr>
+
+<tr>
+<td>1743</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="com.SravaniKumari.InterestCalculator.CalculateInterest logger">com.harsha.InterestCalculator.CalculateInterest</td>
+<td title="Message">In calculateSimpleInterest method</td>
+</tr>
+</table>
+<br>
+</body></html>
